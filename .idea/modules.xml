@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Creating and Starting Java Threads/Creating and Starting Java Threads.iml" filepath="$PROJECT_DIR$/Creating and Starting Java Threads/Creating and Starting Java Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Concurrency and Multithreading.iml" filepath="$PROJECT_DIR$/Java Concurrency and Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Thread Signaling/Java Thread Signaling.iml" filepath="$PROJECT_DIR$/Java Thread Signaling/Java Thread Signaling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java ThreadLocal/Java ThreadLocal.iml" filepath="$PROJECT_DIR$/Java ThreadLocal/Java ThreadLocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Volatile Keyword/Java Volatile Keyword.iml" filepath="$PROJECT_DIR$/Java Volatile Keyword/Java Volatile Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Race Conditions and Critical Sections/Race Conditions and Critical Sections.iml" filepath="$PROJECT_DIR$/Race Conditions and Critical Sections/Race Conditions and Critical Sections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread Safety and Shared Resources/Thread Safety and Shared Resources.iml" filepath="$PROJECT_DIR$/Thread Safety and Shared Resources/Thread Safety and Shared Resources.iml" />
     </modules>
