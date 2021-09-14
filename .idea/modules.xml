@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/Java ThreadLocal/Java ThreadLocal.iml" filepath="$PROJECT_DIR$/Java ThreadLocal/Java ThreadLocal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Volatile Keyword/Java Volatile Keyword.iml" filepath="$PROJECT_DIR$/Java Volatile Keyword/Java Volatile Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Race Conditions and Critical Sections/Race Conditions and Critical Sections.iml" filepath="$PROJECT_DIR$/Race Conditions and Critical Sections/Race Conditions and Critical Sections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadWrite Locks/ReadWrite Locks.iml" filepath="$PROJECT_DIR$/ReadWrite Locks/ReadWrite Locks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaphores/Semaphores.iml" filepath="$PROJECT_DIR$/Semaphores/Semaphores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread Pools/Thread Pools.iml" filepath="$PROJECT_DIR$/Thread Pools/Thread Pools.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread Safety and Shared Resources/Thread Safety and Shared Resources.iml" filepath="$PROJECT_DIR$/Thread Safety and Shared Resources/Thread Safety and Shared Resources.iml" />
     </modules>
   </component>
