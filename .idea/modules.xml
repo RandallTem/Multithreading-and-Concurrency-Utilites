@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anatomy of Synchronizer/Anatomy of Synchronizer.iml" filepath="$PROJECT_DIR$/Anatomy of Synchronizer/Anatomy of Synchronizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creating and Starting Java Threads/Creating and Starting Java Threads.iml" filepath="$PROJECT_DIR$/Creating and Starting Java Threads/Creating and Starting Java Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Concurrency and Multithreading.iml" filepath="$PROJECT_DIR$/Java Concurrency and Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Thread Signaling/Java Thread Signaling.iml" filepath="$PROJECT_DIR$/Java Thread Signaling/Java Thread Signaling.iml" />
